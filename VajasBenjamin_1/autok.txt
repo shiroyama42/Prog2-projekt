@@ -1,0 +1,5 @@
+org.example.Auto{rendszam='UIM-110', tipus='Agile', marka='Chevrolet', gyartasDatuma=2020-10-25, teljesitmeny=120}
+org.example.Auto{rendszam='ABC-123', tipus='Croma', marka='Chevrolet', gyartasDatuma=2023-11-20, teljesitmeny=200}
+org.example.Auto{rendszam='KSK-110', tipus='Accent', marka='Hyundai', gyartasDatuma=2014-07-10, teljesitmeny=200}
+org.example.Auto{rendszam='HKL-008', tipus='Accelo', marka='Mercedes', gyartasDatuma=2019-05-22, teljesitmeny=240}
+org.example.Auto{rendszam='SMA-503', tipus='ZZZZ', ma
